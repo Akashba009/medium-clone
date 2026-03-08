@@ -65,3 +65,6 @@ $ npm run dev
 
 <img src="./screenshots/screely-home-dark.png">
 <img src="./screenshots/screely-post-dark.png">
+## Contributor Update
+
+Updated README documentation as part of internship task.
